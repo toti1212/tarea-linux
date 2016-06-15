@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/rodrigosuarezbalbi/Desktop/tarea-linux","disabled":false,"__vagrantfile":true},"vagrant-cache":{"id":"vagrant-cache","guestpath":"/tmp/vagrant-cache","hostpath":"/Users/rodrigosuarezbalbi/.vagrant.d/cache/debian-8.1-lxc","disabled":false,"__vagrantfile":true}}}

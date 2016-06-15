@@ -1,0 +1,4 @@
+/var/cache/apt/archives
+/var/lib/gems/2.1.0/cache
+/var/lib/apt/lists
+/home/vagrant/.composer/cache
